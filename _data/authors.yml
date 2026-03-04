@@ -1,18 +1,10 @@
-# Authors
-
-Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+Chinmaya Nayak:
+  name: "Dr. Chinmaya Nayak"
+  avatar: "/images/profile.png"
+  bio: "Associate Professor | Indian Institute of Geomagnetism"
+  location: "Navi Mumbai, India"
+  employer: "Indian Institute of Geomagnetism"
+  email: "chinmaya.n@iigm.res.in"
+  googlescholar: "https://scholar.google.com/citations?user=l9LdvBgAAAAJ&hl=en"
+  orcid: "https://orcid.org/0000-0002-3067-2313"
+  researchgate: "https://www.researchgate.net/profile/Chinmaya-Nayak-3"
