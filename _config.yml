@@ -57,6 +57,8 @@ timezone: Etc/UTC
 collections:
   publications:
     output: true
+    sort_by: 'year'      
+    sort_reverse: true   # newest first
   talks:
     output: true
   teaching:
