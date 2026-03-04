@@ -4,6 +4,7 @@ collection: publications
 layout: single
 author_profile: true
 year: 2025
+date: 2025-03-03
 journal: "Journal of Geophysical Research: Space Physics"
 volume: 130
 number: 3
