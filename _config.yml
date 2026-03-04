@@ -22,7 +22,7 @@ repository               : "physics642/Chinmaya.Nayak"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   name: "Dr. Chinmaya Nayak"
-  avatar: "/images/profile.png"
+  avatar: "images/profile.png"
   bio: "Associate Professor | IIG"
   location: "Indian Institute of Geomagnetism, India"
   employer: "Indian Institute of Geomagnetism"
