@@ -2,7 +2,7 @@
 layout: single
 title: "Chinmaya Nayak, Ph.D."
 permalink: /
-author: Chinmaya Nayak
+author: Dr. Chinmaya Nayak
 author_profile: true
 ---
 
