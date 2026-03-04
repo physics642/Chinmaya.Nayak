@@ -4,11 +4,11 @@
 
 locale: "en-US"
 title: "Dr Chinmaya Nayak"
-title_separator: "-"
 description: "Academic homepage of Dr Chinmaya Nayak"
+
 url: "https://physics642.github.io"
-baseurl: "/Chinmaya.Nayak"  
-repository: "physics642/physics642.github.io"
+baseurl: "/Chinmaya.Nayak"   # REQUIRED for project site
+repository: "physics642/Chinmaya.Nayak"
 
 # ===============================
 # AUTHOR PROFILE
@@ -16,7 +16,7 @@ repository: "physics642/physics642.github.io"
 
 author:
   name: "Dr Chinmaya Nayak"
-  avatar: "profile.png"   # DO NOT add /images or full URL
+  avatar: "profile.png"   
   bio: "Associate Professor | Indian Institute of Geomagnetism"
   location: "Navi Mumbai, India"
   employer: "Indian Institute of Geomagnetism"
@@ -26,23 +26,13 @@ author:
   researchgate: "https://www.researchgate.net/profile/Chinmaya-Nayak-3"
 
 # ===============================
-# SITE FEATURES
-# ===============================
-
-breadcrumbs: false
-read_more: "disabled"
-talkmap_link: false
-future: true
-words_per_minute: 160
-
-# ===============================
 # FILE HANDLING
 # ===============================
 
 include:
   - _pages
-  - files
   - images
+  - files
 
 exclude:
   - node_modules
