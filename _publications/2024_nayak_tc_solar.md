@@ -10,6 +10,7 @@ volume: "11"
 number: "6"
 pages: "e2023EA003500"
 year: 2024
+date: 2024-06-03
 doi: "10.1029/2023EA003500"
 url: "https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2023EA003500"
 eprint: "https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2023EA003500"
