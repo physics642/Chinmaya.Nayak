@@ -7,6 +7,8 @@ permalink: /
 
 **Associate Professor**  
 Indian Institute of Geomagnetism (IIG), India  
+[📄 Download My CV](files/CV.pdf){: .button target="_blank"}
+
 
 ---
 
@@ -43,7 +45,6 @@ My research integrates **ground-based experiments**, **satellite observations**,
 🔗 **Links:**  
 [Google Scholar](https://scholar.google.com/citations?user=l9LdvBgAAAAJ) | [ORCID](https://orcid.org/0000-0002-3067-2313) | [ResearchGate](https://www.researchgate.net/profile/Chinmaya-Nayak-3)  
 
-📄 [Download my CV](files/ChinmayaNayak_CV.pdf){:target="_blank"}
 
 ---
 
