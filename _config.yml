@@ -20,7 +20,7 @@ repository               : "physics642/Chinmaya.Nayak"
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
-author:
+author: "Dr. Chinmaya Nayak"
   name: "Dr. Chinmaya Nayak"
   avatar: "profile.png"
   bio: "Associate Professor | IIG"
