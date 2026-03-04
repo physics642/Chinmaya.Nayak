@@ -5,6 +5,7 @@ layout: single
 author_profile: true
 year: 2026
 month: feb
+date: 2026-02-26
 journal: "The Astrophysical Journal"
 volume: 999
 number: 1
