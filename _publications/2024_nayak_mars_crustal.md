@@ -14,6 +14,7 @@ volume: "129"
 number: "8"
 pages: "e2024JA032760"
 year: 2024
+date: 2024-07-30
 doi: "10.1029/2024JA032760"
 url: "https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2024JA032760"
 eprint: "https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2024JA032760"
