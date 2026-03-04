@@ -41,7 +41,9 @@ My research integrates **ground-based experiments**, **satellite observations**,
 📍 **Institute:** Indian Institute of Geomagnetism, Navi Mumbai, India  
 
 🔗 **Links:**  
-[Google Scholar](https://scholar.google.com/citations?user=l9LdvBgAAAAJ) | [ORCID](https://orcid.org/0000-0002-3067-2313) | [ResearchGate](https://www.researchgate.net/profile/Chinmaya-Nayak-3)
+[Google Scholar](https://scholar.google.com/citations?user=l9LdvBgAAAAJ) | [ORCID](https://orcid.org/0000-0002-3067-2313) | [ResearchGate](https://www.researchgate.net/profile/Chinmaya-Nayak-3)  
+
+📄 [Download my CV](files/ChinmayaNayak_CV.pdf){:target="_blank"}
 
 ---
 
