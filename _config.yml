@@ -100,7 +100,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-      sort_by: year        # ensures publications are sorted by the date field
+      sort_by: date        # ensures publications are sorted by the date field
       sort_reverse: true   # newest first
 
   # For teaching
