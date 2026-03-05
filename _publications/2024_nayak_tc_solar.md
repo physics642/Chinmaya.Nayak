@@ -1,4 +1,5 @@
 ---
+layout: publication
 title: "Effects of Solar Variability on Tropical Cyclone Activity"
 authors:
   - "Chinmaya Nayak"
