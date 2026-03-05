@@ -9,7 +9,6 @@ year: 2026
 authors:
   - Pranjali Padhye
   - Chinmaya Nayak
-layout: single
 journal: "The Astrophysical Journal"
 volume: "999"
 number: "1"
