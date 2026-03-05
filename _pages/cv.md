@@ -11,26 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D.,(Space Physics) (2014) (Indian Institute of Geomagnetism, Navi Mumbai) 
+* M.Sc. (Physics) (2005) (Ravenshaw College/Utkal University, Odisha, India) 
+* B.Sc. (Physics) (2003)(Kendrapara College, Kendrapara, Odisha, India) 
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+    1. Associate Professor (January 2026- )
+       Indian Institute of Geomagnetism; Navi Mumbai, Maharashtra, India, 410218 
+    
+    2.Reader (equivalent to Assistant Prof. ) (July 2021-Dec 2025)
+       Indian Institute of Geomagnetism; Navi Mumbai, Maharashtra, India, 410218
+       
+    3. Guest Researcher (Oct 2019-May 2021)
+       Swedish Institute of Space Physics (IRFU); Angstromlaboratoriet, 75237 Uppsala, Sweden
+       
+    4. Postdoctoral Research Fellow (May 2017- May 2009)
+George Mason University, 4400 University Drive, Fairfax, Virginia 22030, USA
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+    5.  Postdoctoral Research Fellow (August 2015- April 2017)
+National Central University, Taiwan
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+    6. Research Associate (May 2013- July 2015)
+Indian Institute of Geomagnetism, Navi Mumbai, India
+
+    7. Research Scholar (Ph.D.) (September 2007- April 2013)
+Indian Institute of Geomagnetism, Navi Mumbai, India
   
 Skills
 ======
