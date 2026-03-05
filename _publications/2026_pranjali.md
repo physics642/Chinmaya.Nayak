@@ -5,12 +5,11 @@ permalink: /publications/2026_pranjali/
 author_profile: true
 date: 2026-02-26
 year: 2026
-authors:
+citation:
   - Pranjali Padhye
   - Chinmaya Nayak
-journal: "The Astrophysical Journal"
+venue: "The Astrophysical Journal"
 layout: single
-
 volume: "999"
 number: "1"
 pages: "12"
@@ -19,6 +18,8 @@ doi: "10.3847/1538-4357/ae3dad"
 paperurl: "https://doi.org/10.3847/1538-4357/ae3dad"
 pdf: "https://doi.org/10.3847/1538-4357/ae3dad"
 
+
+---
 abstract: >
   The Martian northern hemisphere (NH) is relatively devoid of ambient magnetic
   fields compared to the southern hemisphere (SH), which houses strong crustal
@@ -32,5 +33,3 @@ abstract: >
   This condition exposed the topside ionosphere to the CME, resulting in severe
   depletion of electron density, particularly above 350 km. The dayside ionosphere
   showed stronger depletion compared to the terminator regions.
- 
----
