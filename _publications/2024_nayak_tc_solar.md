@@ -3,8 +3,7 @@ layout: publication
 collection: publications
 permalink: /publications/2024_nayak_tc_solar
 title: "Effects of Solar Variability on Tropical Cyclone Activity"
-citation: "Nayak, C., Yiğit, E., Remya, B., Bulusu, J., Devanandhan, S., Singh, S., et al. (2024). Role of Martian crustal fields in ionospheric electron density distribution and subsequent south-north asymmetry: Insights from multi-year MAVEN observations during (MYs 33–36). Journal of Geophysical Research: Space Physics, 129, e2024JA032760. https://doi.org/10.1029/2024JA032760"
-journal: "Earth and Space Science"
+citation: "Nayak, C., Bulusu, J., Vichare, G., & Dimri, A. P. (2024). Effects of solar variability on tropical cyclone activity. Earth and Space Science, 11, e2023EA003500. https://doi.org/10.1029/2023EA003500"
 layout: single
 volume: "11"
 number: "6"
@@ -15,12 +14,12 @@ doi: "10.1029/2023EA003500"
 paperurl: "https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2023EA003500"
 eprint: "https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2023EA003500"
 keywords: "tropical cyclone, solar activity, sunspot number, hurricane"
-excerpt: "This study investigates how the Martian crustal magnetic fields control its ionosphere."
+excerpt: "This study investigates how the tropical cyclones are controlled by solar activity."
 
 
 ---
 ## Download Reference
-* [Download .bib file]({{ site.baseurl }}/files/Pranjali_2026_APJ.bib)
+* [Download .bib file]({{ site.baseurl }}/files/Nayak_2024_ESS.bib)
 
   
 ### Abstract 
