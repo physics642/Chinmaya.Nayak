@@ -14,7 +14,7 @@ authors:
   - A. P. Dimri
   - Pranjali Padhye
 journal: "Journal of Geophysical Research: Space Physics"
-layout: single
+#layout: single
 volume: "129"
 number: "8"
 pages: "e2024JA032760"
