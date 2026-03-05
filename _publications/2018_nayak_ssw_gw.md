@@ -2,7 +2,6 @@
 layout: publication
 collection: publications
 title: "Variation of Small-Scale Gravity Wave Activity in the Ionosphere During the Major Sudden Stratospheric Warming Event of 2009"
-layout: single
 authors: "Nayak, C., Yiğit, E."
 journal: "Journal of Geophysical Research: Space Physics"
 volume: 124
