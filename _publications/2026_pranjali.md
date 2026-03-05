@@ -1,7 +1,7 @@
 ---
 layout: publications
 title: "Impact of Coronal Mass Ejection–Driven Enhanced Magnetic Pressure on the Martian Northern Hemispheric Ionosphere during 2024 May 17–18"
-permalink: /publications/2026_pranjali/
+permalink: /publications/
 author_profile: true
 date: 2026-02-26
 year: 2026
