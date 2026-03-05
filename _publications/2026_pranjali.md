@@ -1,14 +1,3 @@
-{{ page.authors | join: ", " }}
-
-*{{ page.venue }}*  
-{{ page.volume }}({{ page.number }}), {{ page.pages }}
-
-**DOI:** [{{ page.doi }}]({{ page.paperurl }})
-
----
-
-### Abstract
-{{ page.abstract }}
 ---
 layout: publications
 title: "Impact of Coronal Mass Ejection–Driven Enhanced Magnetic Pressure on the Martian Northern Hemispheric Ionosphere during 2024 May 17–18"
