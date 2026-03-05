@@ -8,6 +8,7 @@ authors:
   - "Geeta Vichare"
   - "A. P. Dimri"
 journal: "Earth and Space Science"
+layout: single
 volume: "11"
 number: "6"
 pages: "e2023EA003500"
