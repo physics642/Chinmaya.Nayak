@@ -34,4 +34,4 @@ The Martian northern hemisphere (NH) is relatively devoid of ambient magnetic
   depletion of electron density, particularly above 350 km. The dayside ionosphere
   showed stronger depletion compared to the terminator regions.
 
-`[Download .bib file](/files/2026_pranjali.bib)`  
+
