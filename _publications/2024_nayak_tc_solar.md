@@ -1,5 +1,6 @@
 ---
 layout: publication
+collection: publications
 title: "Effects of Solar Variability on Tropical Cyclone Activity"
 layout: single
 authors:
