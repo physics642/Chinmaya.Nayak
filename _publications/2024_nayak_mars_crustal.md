@@ -3,7 +3,6 @@ layout: publication
 title: "Role of Martian Crustal Fields in Ionospheric Electron Density Distribution and Subsequent South–North Asymmetry: Insights From Multi-Year MAVEN Observations During Martian Years 33–36"
 date: 2024-07-30
 collection: publications
-layout: single
 permalink: /publications/2024-nayak-mars-crustal/
 authors:
   - Chinmaya Nayak
