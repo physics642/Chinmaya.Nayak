@@ -15,6 +15,7 @@ pages: "12"
 doi: "10.3847/1538-4357/ae3dad"
 paperurl: "https://doi.org/10.3847/1538-4357/ae3dad"
 pdf: "https://doi.org/10.3847/1538-4357/ae3dad"
+excerpt: "This study investigates the impact of the 2024 May CME on the Martian NH ionosphere, revealing a 100-fold increase in magnetic pressure."
 
 ---
 
