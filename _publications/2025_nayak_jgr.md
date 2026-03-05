@@ -1,5 +1,5 @@
 ---
-layout: publication
+#layout: publication
 title: "Topside Low-Latitude Ionospheric Response to the 10–11 May 2024 Super Geomagnetic Storm as Observed by Swarm: The Strongest Storm-Time Super-Fountain During the Swarm Era?"
 permalink: /publications/2025_nayak_jgr/
 collection: publications
