@@ -5,7 +5,7 @@ permalink: /publications/2026_pranjali/
 author_profile: true
 date: 2026-02-26
 year: 2026
-citation: Pranjali V.S.P., Nayak C., Yiğit E., Andrews D., Buchert S., Gupta S., Singh S., Dimri A.P. (2026), The Astrophysical Journal, 999(1), 12. DOI: 10.3847/1538-4357/ae3dad
+citation: "Pranjali V.S.P., Nayak C., Yiğit E., Andrews D., Buchert S., Gupta S., Singh S., Dimri A.P. (2026), The Astrophysical Journal, 999(1), 12. DOI: 10.3847/1538-4357/ae3dad"
 venue: "The Astrophysical Journal"
 layout: single
 volume: "999"
