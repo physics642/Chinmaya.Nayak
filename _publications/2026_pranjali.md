@@ -17,7 +17,11 @@ paperurl: "https://doi.org/10.3847/1538-4357/ae3dad"
 pdf: "https://doi.org/10.3847/1538-4357/ae3dad"
 
 ---
-## Abstract
+
+## Download Reference
+* [Download .bib file](/files/2026_pranjali.bib)
+  
+### Abstract
 The Martian northern hemisphere (NH) is relatively devoid of ambient magnetic
   fields compared to the southern hemisphere (SH), which houses strong crustal
   field regions. On 2024 May 17, when Mars was impacted by a coronal mass ejection
@@ -30,13 +34,4 @@ The Martian northern hemisphere (NH) is relatively devoid of ambient magnetic
   depletion of electron density, particularly above 350 km. The dayside ionosphere
   showed stronger depletion compared to the terminator regions.
 
-### BibTeX Reference
-```bibtex
-@article{padhye_2026_APJ,
-  author = {Padhye, Pranjali and Nayak, Chinmaya},
-  title = {Impact of Coronal Mass Ejection--Driven Enhanced Magnetic Pressure on the Martian Northern Hemispheric Ionosphere during 2024 May 17--18},
-  journal = {The Astrophysical Journal},
-  year = {2026},
-  doi = {10.3847/1538-4357/ae3dad}
-}
-  
+`[Download .bib file](/files/2026_pranjali.bib)`  
