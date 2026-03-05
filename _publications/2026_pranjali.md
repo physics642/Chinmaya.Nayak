@@ -5,7 +5,6 @@ permalink: /publications/2026_pranjali/
 author_profile: true
 date: 2026-02-26
 year: 2026
-
 authors:
   - Pranjali Padhye
   - Chinmaya Nayak
