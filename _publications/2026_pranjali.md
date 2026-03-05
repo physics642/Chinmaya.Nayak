@@ -15,7 +15,6 @@ pages: "12"
 doi: "10.3847/1538-4357/ae3dad"
 paperurl: "https://doi.org/10.3847/1538-4357/ae3dad"
 pdf: "https://doi.org/10.3847/1538-4357/ae3dad"
-### BibTeX citation
 
 ---
 ## Abstract
