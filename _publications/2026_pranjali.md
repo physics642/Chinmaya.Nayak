@@ -20,7 +20,7 @@ pdf: "https://doi.org/10.3847/1538-4357/ae3dad"
 
 ## Download Reference
 * [Download .bib file](Pranjali_2026_APJ.bib)
-* [📄 Download .bib file](Pranjali_2026_APJ.bib){: .button target="_blank"}
+
   
 ### Abstract
 The Martian northern hemisphere (NH) is relatively devoid of ambient magnetic
