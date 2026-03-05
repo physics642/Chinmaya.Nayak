@@ -1,6 +1,7 @@
 ---
 layout: publication
 collection: publications
+permalink: /publications/2024_nayak_tc_solar/
 title: "Effects of Solar Variability on Tropical Cyclone Activity"
 authors:
   - "Chinmaya Nayak"
