@@ -17,25 +17,25 @@ Education
 
 Work experience
 ======
-    1. Associate Professor (January 2026- )
+    * Associate Professor (January 2026- )
          Indian Institute of Geomagnetism; Navi Mumbai, Maharashtra, India, 410218 
     
-    2.Reader (equivalent to Assistant Prof. ) (July 2021-Dec 2025)
+    * Reader (equivalent to Assistant Prof. ) (July 2021-Dec 2025)
          Indian Institute of Geomagnetism; Navi Mumbai, Maharashtra, India, 410218
        
-    3. Guest Researcher (Oct 2019-May 2021)
+    * Guest Researcher (Oct 2019-May 2021)
          Swedish Institute of Space Physics (IRFU); Angstromlaboratoriet, 75237 Uppsala, Sweden
        
-    4. Postdoctoral Research Fellow (May 2017- May 2009)
+    * Postdoctoral Research Fellow (May 2017- May 2009)
          George Mason University, 4400 University Drive, Fairfax, Virginia 22030, USA
 
-    5.  Postdoctoral Research Fellow (August 2015- April 2017)
+    *  Postdoctoral Research Fellow (August 2015- April 2017)
           National Central University, Taiwan
 
-    6. Research Associate (May 2013- July 2015)
+    * Research Associate (May 2013- July 2015)
          Indian Institute of Geomagnetism, Navi Mumbai, India
 
-    7. Research Scholar (Ph.D.) (September 2007- April 2013)
+    * Research Scholar (Ph.D.) (September 2007- April 2013)
         Indian Institute of Geomagnetism, Navi Mumbai, India
   
 Skills
