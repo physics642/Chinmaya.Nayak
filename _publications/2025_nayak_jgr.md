@@ -6,6 +6,10 @@ collection: publications
 author_profile: true
 year: 2025
 date: 2025-03-03
+authors:
+    - Chinmaya Nayak
+    - Stephan Buchert
+layout: single
 journal: "Journal of Geophysical Research: Space Physics"
 volume: 130
 number: 3
