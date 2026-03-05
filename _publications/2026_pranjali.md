@@ -5,9 +5,7 @@ permalink: /publications/2026_pranjali/
 author_profile: true
 date: 2026-02-26
 year: 2026
-citation:
-  - Pranjali Padhye
-  - Chinmaya Nayak
+citation: Pranjali V.S.P., Nayak C., Yiğit E., Andrews D., Buchert S., Gupta S., Singh S., Dimri A.P. (2026), The Astrophysical Journal, 999(1), 12. DOI: 10.3847/1538-4357/ae3dad
 venue: "The Astrophysical Journal"
 layout: single
 volume: "999"
@@ -20,8 +18,7 @@ pdf: "https://doi.org/10.3847/1538-4357/ae3dad"
 
 
 ---
-abstract: >
-  The Martian northern hemisphere (NH) is relatively devoid of ambient magnetic
+abstract:   The Martian northern hemisphere (NH) is relatively devoid of ambient magnetic
   fields compared to the southern hemisphere (SH), which houses strong crustal
   field regions. On 2024 May 17, when Mars was impacted by a coronal mass ejection
   (CME), the periapsis of NASA’s Mars Atmosphere and Volatile EvolutioN (MAVEN)
