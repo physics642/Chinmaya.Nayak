@@ -1,6 +1,7 @@
 ---
 layout: publications
 title: "Impact of Coronal Mass Ejection–Driven Enhanced Magnetic Pressure on the Martian Northern Hemispheric Ionosphere during 2024 May 17–18"
+
 collection: publications
 permalink: /publications/2026_pranjali/
 author_profile: true
@@ -10,7 +11,7 @@ year: 2026
 authors:
   - Pranjali Padhye
   - Chinmaya Nayak
-
+layout: single
 venue: "The Astrophysical Journal"
 volume: "999"
 number: "1"
