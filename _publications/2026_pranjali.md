@@ -32,6 +32,5 @@ abstract: >
   This condition exposed the topside ionosphere to the CME, resulting in severe
   depletion of electron density, particularly above 350 km. The dayside ionosphere
   showed stronger depletion compared to the terminator regions.
-  
-  {% include publication-details.html %}
+ 
 ---
