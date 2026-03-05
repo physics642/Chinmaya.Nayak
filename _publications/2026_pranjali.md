@@ -26,7 +26,9 @@ abstract:   The Martian northern hemisphere (NH) is relatively devoid of ambient
   enhanced by nearly two orders of magnitude during the Mars–CME interaction,
   allowing penetration of solar-origin magnetic fields into the Martian ionosphere.
   Even below 500 km altitude, the ratio of magnetic pressure to ionospheric thermal
-  pressure increased by more than 100 times, creating an overpressure regime.
+  pressure increased by more than 100 times, creating an overpressure regime.This condition exposed the topside ionosphere to the CME, resulting in severe
+  depletion of electron density, particularly above 350 km. The dayside ionosphere
+  showed stronger depletion compared to the terminator regions.
 
 ### BibTeX Reference
 ```bibtex
@@ -37,6 +39,4 @@ abstract:   The Martian northern hemisphere (NH) is relatively devoid of ambient
   year = {2026},
   doi = {10.3847/1538-4357/ae3dad}
 }
-  This condition exposed the topside ionosphere to the CME, resulting in severe
-  depletion of electron density, particularly above 350 km. The dayside ionosphere
-  showed stronger depletion compared to the terminator regions.
+  
