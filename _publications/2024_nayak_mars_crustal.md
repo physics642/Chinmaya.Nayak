@@ -1,5 +1,5 @@
 ---
-layout: publication
+#layout: publication
 title: "Role of Martian Crustal Fields in Ionospheric Electron Density Distribution and Subsequent South–North Asymmetry: Insights From Multi-Year MAVEN Observations During Martian Years 33–36"
 date: 2024-07-30
 collection: publications
@@ -14,7 +14,7 @@ authors:
   - A. P. Dimri
   - Pranjali Padhye
 journal: "Journal of Geophysical Research: Space Physics"
-#layout: single
+layout: single
 volume: "129"
 number: "8"
 pages: "e2024JA032760"
