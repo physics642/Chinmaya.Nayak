@@ -15,6 +15,16 @@ pages: "12"
 doi: "10.3847/1538-4357/ae3dad"
 paperurl: "https://doi.org/10.3847/1538-4357/ae3dad"
 pdf: "https://doi.org/10.3847/1538-4357/ae3dad"
+### BibTeX citation
+
+```bibtex
+@article{padhye2026impact,
+  author = {Padhye, Pranjali and Nayak, Chinmaya},
+  title = {Impact of Coronal Mass Ejection--Driven Enhanced Magnetic Pressure on the Martian Northern Hemispheric Ionosphere during 2024 May 17--18},
+  journal = {The Astrophysical Journal},
+  year = {2026},
+  doi = {10.3847/1538-4357/ae3dad}
+}
 
 
 ---
