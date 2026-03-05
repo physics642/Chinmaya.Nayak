@@ -14,7 +14,7 @@ authors:
   - Satyavir Singh
   - A. P. Dimri
   - Pranjali Padhye
-venue: "Journal of Geophysical Research: Space Physics"
+journal: "Journal of Geophysical Research: Space Physics"
 volume: "129"
 number: "8"
 pages: "e2024JA032760"
