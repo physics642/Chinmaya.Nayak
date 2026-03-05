@@ -7,7 +7,7 @@ author_profile: true
 year: 2025
 date: 2025-03-03
 citation: "Nayak, C., Buchert, S., Yiğit, E., Ankita, M., Singh, S., Tulasi Ram, S., & Dimri, A. P. (2025). Topside low-latitude ionospheric response to the 10–11 May 2024 super geomagnetic storm as observed by Swarm: The strongest storm-time super-fountain during the Swarm era? Journal of Geophysical Research: Space Physics, 130, e2024JA033340. https://doi.org/10.1029/2024JA033340"
-layout: single
+#layout: single
 venue: "Journal of Geophysical Research: Space Physics"
 volume: 130
 number: 3
