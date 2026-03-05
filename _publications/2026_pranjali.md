@@ -17,16 +17,6 @@ paperurl: "https://doi.org/10.3847/1538-4357/ae3dad"
 pdf: "https://doi.org/10.3847/1538-4357/ae3dad"
 ### BibTeX citation
 
-```bibtex
-@article{padhye2026impact,
-  author = {Padhye, Pranjali and Nayak, Chinmaya},
-  title = {Impact of Coronal Mass Ejection--Driven Enhanced Magnetic Pressure on the Martian Northern Hemispheric Ionosphere during 2024 May 17--18},
-  journal = {The Astrophysical Journal},
-  year = {2026},
-  doi = {10.3847/1538-4357/ae3dad}
-}
-
-
 ---
 abstract:   The Martian northern hemisphere (NH) is relatively devoid of ambient magnetic
   fields compared to the southern hemisphere (SH), which houses strong crustal
@@ -37,6 +27,16 @@ abstract:   The Martian northern hemisphere (NH) is relatively devoid of ambient
   allowing penetration of solar-origin magnetic fields into the Martian ionosphere.
   Even below 500 km altitude, the ratio of magnetic pressure to ionospheric thermal
   pressure increased by more than 100 times, creating an overpressure regime.
+
+### BibTeX Reference
+```bibtex
+@article{padhye2026impact,
+  author = {Padhye, Pranjali and Nayak, Chinmaya},
+  title = {Impact of Coronal Mass Ejection--Driven Enhanced Magnetic Pressure on the Martian Northern Hemispheric Ionosphere during 2024 May 17--18},
+  journal = {The Astrophysical Journal},
+  year = {2026},
+  doi = {10.3847/1538-4357/ae3dad}
+}
   This condition exposed the topside ionosphere to the CME, resulting in severe
   depletion of electron density, particularly above 350 km. The dayside ionosphere
   showed stronger depletion compared to the terminator regions.
