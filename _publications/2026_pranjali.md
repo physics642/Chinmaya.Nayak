@@ -20,7 +20,8 @@ excerpt: "This study investigates the impact of the 2024 May CME on the Martian 
 ---
 
 ## Download Reference
-* [Download .bib file]({{ site.baseurl }}/files/Pranjali_2026_APJ.bib)
+* [Download .bib file]({{ site.baseurl }}/files/Nayak_2025_JGR
+* .bib)
 
   
 ### Abstract
