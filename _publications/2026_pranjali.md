@@ -10,7 +10,7 @@ authors:
   - Pranjali Padhye
   - Chinmaya Nayak
 layout: single
-venue: "The Astrophysical Journal"
+journal: "The Astrophysical Journal"
 volume: "999"
 number: "1"
 pages: "12"
