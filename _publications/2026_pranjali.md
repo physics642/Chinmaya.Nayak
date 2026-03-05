@@ -18,7 +18,8 @@ pdf: "https://doi.org/10.3847/1538-4357/ae3dad"
 ### BibTeX citation
 
 ---
-abstract:   The Martian northern hemisphere (NH) is relatively devoid of ambient magnetic
+## Abstract
+The Martian northern hemisphere (NH) is relatively devoid of ambient magnetic
   fields compared to the southern hemisphere (SH), which houses strong crustal
   field regions. On 2024 May 17, when Mars was impacted by a coronal mass ejection
   (CME), the periapsis of NASA’s Mars Atmosphere and Volatile EvolutioN (MAVEN)
