@@ -30,7 +30,7 @@ abstract:   The Martian northern hemisphere (NH) is relatively devoid of ambient
 
 ### BibTeX Reference
 ```bibtex
-@article{padhye2026impact,
+@article{padhye_2026_APJ,
   author = {Padhye, Pranjali and Nayak, Chinmaya},
   title = {Impact of Coronal Mass Ejection--Driven Enhanced Magnetic Pressure on the Martian Northern Hemispheric Ionosphere during 2024 May 17--18},
   journal = {The Astrophysical Journal},
